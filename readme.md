@@ -6,4 +6,4 @@
 
 # Inteligência Artificial
 
-- [IA teste](https://github.com/zheage/Data-Science/blob/b864082a7f66dbd20ddd9db5c3524379111195ea/Intelig%C3%AAncia%20Artificial/teste2.ipynb)
+- [Busca Competitiva](https://github.com/zheage/Data-Science/blob/38393af927dae065d48e3c051c22deb50d721a33/Intelig%C3%AAncia%20Artificial/Busca%20Competitiva/Busca%20Competitiva%20-%20Teoria.ipynb)
