@@ -7,10 +7,23 @@ Padronização:
 - Criar uma pasta para cada tema
 - Para exemplos criar uma nova pasta com o nome do exemplo dentro do tema
 
+# Estatística
+
+## Inferência Clássica
 
 
 # Inteligência Artificial
 
+- Busca Não Informada
+  - Busca em Profundidade
+  - Busca em Largura
+- Busca Informada
+  - Busca Gulosa
+  - Busca A*
+- Busca Local e Otimização
+  - Hill Climbing
+  - Busca Tabu
+  - Simulated Annealing
 - [Busca Competitiva (MINIMAX)](https://github.com/zheage/Data-Science/blob/7ad436f21f9718f561ef9ef51e84ed30db351f7e/Intelig%C3%AAncia%20Artificial/Busca%20Competitiva/Busca%20Competitiva%20(MINIMAX).ipynb)
 - [Poda Alfa-Beta (MINIMAX)](https://github.com/zheage/Data-Science/blob/f7a98ebabb3fad9b65d5e045cce8f6fd3a38117f/Intelig%C3%AAncia%20Artificial/Busca%20Competitiva/Poda%20Alfa-Beta%20(MINIMAX).ipynb)
   - [Jogo da Velha utilizando MINIMAX](https://github.com/zheage/Data-Science/blob/7ad436f21f9718f561ef9ef51e84ed30db351f7e/Intelig%C3%AAncia%20Artificial/Busca%20Competitiva/MINIMAX%20-%20Jogo%20da%20Velha/Jogo%20da%20Velha.ipynb)
@@ -22,4 +35,4 @@ Padronização:
 ## PySpark
 
 - [Introdução ao PySpark](https://github.com/zheage/Data-Science/blob/2ccbd8147ce8b7337681fd3bae4e1037f45edec5/Python/PySpark/Introdu%C3%A7%C3%A3o%20ao%20PySpark.ipynb)
-- [Machine Learning Pipeline]()
+- [Machine Learning Pipeline](https://github.com/zheage/Data-Science/blob/3b09582b12f9f97a36b9eb9863a673f31cc2b35f/Python/PySpark/Machine%20Learning%20Pipeline.ipynb)
