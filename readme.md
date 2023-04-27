@@ -20,8 +20,7 @@ Padronização:
 - Busca Informada
   - Busca Gulosa
   - Busca A*
-- Busca Local e Otimização
-  - Hill Climbing
+- (Busca Local e Introdução ao Hill Climbing)[https://github.com/zheage/Data-Science/blob/0c5a3591defe2ed7dcdadab123c22ec9cc67627f/Intelig%C3%AAncia%20Artificial/Busca%20Local%20e%20Otimiza%C3%A7%C3%A3o/Introdu%C3%A7%C3%A3o%20a%20Busca%20Local%20com%20Hill%20Climbing.ipynb]
   - Busca Tabu
   - Simulated Annealing
 - [Busca Competitiva (MINIMAX)](https://github.com/zheage/Data-Science/blob/7ad436f21f9718f561ef9ef51e84ed30db351f7e/Intelig%C3%AAncia%20Artificial/Busca%20Competitiva/Busca%20Competitiva%20(MINIMAX).ipynb)
