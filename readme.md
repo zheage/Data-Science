@@ -2,7 +2,6 @@
 
 ![](study-anime.jpg)
 
-# Teoria da Probabilidade
 
 # Aprendizado de Máquina Estatístico
 
@@ -26,3 +25,7 @@
 
 - [Introdução a Modelos Lineares Generalizados]()
 - [Ligações Canônicas]()
+
+
+
+# Teoria da Probabilidade
