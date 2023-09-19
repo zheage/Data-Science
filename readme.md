@@ -18,6 +18,11 @@
 - [Regressão Logística](https://github.com/zheage/Data-Science/blob/4cf8543c8d73375be16c981cf5a7bdc9e69bdd21/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Classifica%C3%A7%C3%A3o/Regress%C3%A3o%20Log%C3%ADstica/Regress%C3%A3o%20Log%C3%ADstica.ipynb)
 - [KNN]()
 
+## Classificação em Dados Desbalanceados
+
+- [Fundamentos de Dados Desbalanceados]()
+- [Easy Ensemble]()
+
 ## Seleção de Modelos & Métricas
 
 - [Matriz de Confusão & Métricas](https://github.com/zheage/Data-Science/blob/9bdf08ef2a3b1a0154c20258184203b8a2d792be/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Sele%C3%A7%C3%A3o%20de%20Modelos%20%26%20M%C3%A9tricas/Matriz%20de%20Confus%C3%A3o.ipynb)
