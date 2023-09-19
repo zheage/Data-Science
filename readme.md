@@ -20,8 +20,8 @@
 
 ## Classificação em Dados Desbalanceados
 
-- [Fundamentos de Dados Desbalanceados]()
-- [Easy Ensemble]()
+- [Fundamentos de Dados Desbalanceados](https://github.com/zheage/Data-Science/blob/8d7ddd11f78d46d1ab40be1c9136222053ec09d8/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Classifica%C3%A7%C3%A3o%20com%20Dados%20Desbalanceados/Fundamentos%20de%20Dados%20Desbalanceados.ipynb)
+- [Easy Ensemble](https://github.com/zheage/Data-Science/blob/8d7ddd11f78d46d1ab40be1c9136222053ec09d8/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Classifica%C3%A7%C3%A3o%20com%20Dados%20Desbalanceados/Easy%20Ensemble.ipynb)
 
 ## Seleção de Modelos & Métricas
 
