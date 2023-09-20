@@ -36,15 +36,18 @@
 
 # Deep Learning
 
+# [Medium Blog](https://medium.com/@heage)
+
 # Modelos Lineares Generalizados
 
 - [Introdução a Modelos Lineares Generalizados](https://github.com/zheage/Data-Science/blob/4432f42ae38fa9cf8556b17246299267da35266c/Modelos%20Lineares%20Generalizados/Introdu%C3%A7%C3%A3o/Introdu%C3%A7%C3%A3o%20a%20Modelos%20Lineares%20Generalizados.ipynb)
 - [Ligações Canônicas](https://github.com/zheage/Data-Science/blob/4432f42ae38fa9cf8556b17246299267da35266c/Modelos%20Lineares%20Generalizados/Liga%C3%A7%C3%B5es%20Can%C3%B4nicas/Liga%C3%A7%C3%B5es%20Can%C3%B4nicas.ipynb)
+- [Regressão Binária]()
 
 # Teoria da Probabilidade
 
 # Python
 
-- [Comando PIP]()
+- [Comando PIP](https://github.com/zheage/Data-Science/blob/b2fc78cfe4d30f66ea7b82f702a9a12df3b4a17d/Python/Comando%20PIP/Comando%20PIP.ipynb)
 
 # Web Scraping
