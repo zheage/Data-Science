@@ -10,6 +10,10 @@
 
 ## Pré-Processamento
 
+## Regressão
+
+- [KNN & Nadaraya-Watson / Kernel Regression]()
+
 ## Classificação
  
 - [Simulação de Dados Binários]()
