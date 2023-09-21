@@ -26,7 +26,7 @@
 ## Seleção de Modelos & Métricas
 
 - [Matriz de Confusão & Métricas](https://github.com/zheage/Data-Science/blob/9bdf08ef2a3b1a0154c20258184203b8a2d792be/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Sele%C3%A7%C3%A3o%20de%20Modelos%20%26%20M%C3%A9tricas/Matriz%20de%20Confus%C3%A3o.ipynb)
-- [Matriz de Confusão para Classificação Multiclasse](https://github.com/zheage/Data-Science/blob/9bdf08ef2a3b1a0154c20258184203b8a2d792be/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Sele%C3%A7%C3%A3o%20de%20Modelos%20%26%20M%C3%A9tricas/Matriz%20de%20Confus%C3%A3o%20para%20Classifica%C3%A7%C3%A3o%20Multiclasse.ipynb)
+- [Matriz de Confusão para Classificação Multiclasse](https://github.com/zheage/Data-Science/blob/29d2d348c38ffa1f0f125f801c56595f02797112/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Sele%C3%A7%C3%A3o%20de%20Modelos%20%26%20M%C3%A9tricas/Matriz%20de%20Confus%C3%A3o%20para%20Classifica%C3%A7%C3%A3o%20Multiclasse.ipynb)
 
 ## Aprendizado Não Supervisionado
 
