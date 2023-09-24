@@ -40,6 +40,10 @@
 
 # Deep Learning
 
+- [Introdução ao Deep Learning com Perceptron]()
+- [Problema XOR]()
+- [Perceptron multicamadas e retropropagação]()
+
 # [Medium Blog](https://medium.com/@heage)
 
 # Modelos Lineares Generalizados
@@ -55,3 +59,12 @@
 - [Comando PIP](https://github.com/zheage/Data-Science/blob/b2fc78cfe4d30f66ea7b82f702a9a12df3b4a17d/Python/Comando%20PIP/Comando%20PIP.ipynb)
 
 # Web Scraping
+
+
+---
+
+# Referências
+
+- [Github do Livro Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow](https://github.com/ageron/handson-ml2/tree/master)
+- [Curso de Modelos Lineares Generalizados p/revisão](https://www.youtube.com/watch?v=fcAvRH38AeE&list=PLeA0ITHjteYmGbQDa1xwNJAGrFk7KjUGU&index=2&ab_channel=RodrigoPescim)
+- [Roadmap interessante sobre engenharia de dados](https://github.com/SartMorgs/data-engineer-roadmap)
