@@ -43,11 +43,11 @@
 
 # Big Data
 
-![](readme\akira.jpg)
+![](akira.jpg)
 
 # Deep Learning
 
-![](readme\evangelion.jpg)
+![](evangelion.jpg)
 
 - [Introdução ao Deep Learning com Perceptron]()
 - [Problema XOR]()
@@ -65,7 +65,7 @@
 
 # Python
 
-![](readme\sailormoon.png)
+![](sailormoon.png)
 
 - [Comando PIP](https://github.com/zheage/Data-Science/blob/b2fc78cfe4d30f66ea7b82f702a9a12df3b4a17d/Python/Comando%20PIP/Comando%20PIP.ipynb)
 
