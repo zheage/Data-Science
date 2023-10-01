@@ -36,7 +36,7 @@
 
 - [Matriz de Confusão & Métricas](https://github.com/zheage/Data-Science/blob/9bdf08ef2a3b1a0154c20258184203b8a2d792be/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Sele%C3%A7%C3%A3o%20de%20Modelos%20%26%20M%C3%A9tricas/Matriz%20de%20Confus%C3%A3o.ipynb)
 - [Matriz de Confusão para Classificação Multiclasse](https://github.com/zheage/Data-Science/blob/29d2d348c38ffa1f0f125f801c56595f02797112/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Sele%C3%A7%C3%A3o%20de%20Modelos%20%26%20M%C3%A9tricas/Matriz%20de%20Confus%C3%A3o%20para%20Classifica%C3%A7%C3%A3o%20Multiclasse.ipynb)
-- [Weight of evidence & Information Value]()
+- [Weight of evidence & Information Value](https://github.com/zheage/Data-Science/blob/70391935e8bab46d37ae6d1ce3289d3895c78cec/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Sele%C3%A7%C3%A3o%20de%20Modelos%20%26%20M%C3%A9tricas/Weight%20of%20evidence%20%26%20Information%20Value.ipynb)
 
 ## Aprendizado Não Supervisionado
 
@@ -50,9 +50,9 @@
 
 ![](evangelion.jpg)
 
-- [Introdução ao Deep Learning com Perceptron]()
-- [Problema XOR]()
-- [Perceptron multicamadas e retropropagação]()
+- [Introdução ao Deep Learning com Perceptron](https://github.com/zheage/Data-Science/blob/70391935e8bab46d37ae6d1ce3289d3895c78cec/Deep%20Learning/Introdu%C3%A7%C3%A3o/Introdu%C3%A7%C3%A3o%20ao%20Deep%20Learning.ipynb)
+- [Problema XOR](https://github.com/zheage/Data-Science/blob/70391935e8bab46d37ae6d1ce3289d3895c78cec/Deep%20Learning/Introdu%C3%A7%C3%A3o/Problema%20XOR.ipynb)
+- [Perceptron multicamadas e retropropagação](https://github.com/zheage/Data-Science/blob/70391935e8bab46d37ae6d1ce3289d3895c78cec/Deep%20Learning/Introdu%C3%A7%C3%A3o/Perceptron%20multicamadas%20e%20retropropaga%C3%A7%C3%A3o.ipynb)
 
 # [Medium Blog](https://medium.com/@heage)
 
@@ -75,6 +75,8 @@
 - [Comando PIP](https://github.com/zheage/Data-Science/blob/b2fc78cfe4d30f66ea7b82f702a9a12df3b4a17d/Python/Comando%20PIP/Comando%20PIP.ipynb)
 
 ## Matplotlib & Seaborn
+
+- [Introdução as bibliotecas gráficas](https://github.com/zheage/Data-Science/blob/70391935e8bab46d37ae6d1ce3289d3895c78cec/Python/Matplotlib%20%26%20Seaborn/Introdu%C3%A7%C3%A3o%20as%20bibliotecas%20gr%C3%A1ficas.ipynb)
 
 # Web Scraping
 
