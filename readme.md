@@ -1,36 +1,22 @@
-# Data Science Roadmap
+# Data Science Notebooks
 
 ![](study-anime.jpg)
 
 # Aprendizado de Máquina Estatístico
 
-## Conceitos Introdutórios
+## Introdução
 
 - [Notação em Aprendizado de Máquina](https://github.com/zheage/Data-Science/blob/4432f42ae38fa9cf8556b17246299267da35266c/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Conceitos%20Introdut%C3%B3rios/Nota%C3%A7%C3%A3o%20em%20Aprendizado%20de%20M%C3%A1quina.ipynb)
+- [Elementos de um Problema de Classificação]()
 
-## Pré-Processamento
+## Pré-Processamento & Feature Engineering
 
-## Regressão
+## Aprendizado Supervisionado
 
 - [Regressão Linear]()
-- [Regressão Lasso Ridge e Elastic-Net]()
-- [KNN & Nadaraya-Watson / Kernel Regression]()
-- [Árvores de Regressão]()
-
-## Classificação
- 
-- [Simulação de Dados Binários]()
-- [Elementos de um Problema de Classificação]()
-- [Naive Bayes](https://github.com/zheage/Data-Science/blob/4cf8543c8d73375be16c981cf5a7bdc9e69bdd21/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Classifica%C3%A7%C3%A3o/Naive%20Bayes/Naive%20Bayes.ipynb)
-- [Análise Discriminante Linear e Quadrado]()
-- [Regressão Logística](https://github.com/zheage/Data-Science/blob/4cf8543c8d73375be16c981cf5a7bdc9e69bdd21/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Classifica%C3%A7%C3%A3o/Regress%C3%A3o%20Log%C3%ADstica/Regress%C3%A3o%20Log%C3%ADstica.ipynb)
-- [KNN](https://github.com/zheage/Data-Science/blob/ae56cb110cb6f55261e740e6c6b4385d74eca337/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Classifica%C3%A7%C3%A3o/KNN/KNN%20%26%20Nadayara-Watson.ipynb)
-- [Árvores de Classificação]()
-
-## Classificação em Dados Desbalanceados
-
-- [Fundamentos de Dados Desbalanceados](https://github.com/zheage/Data-Science/blob/8d7ddd11f78d46d1ab40be1c9136222053ec09d8/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Classifica%C3%A7%C3%A3o%20com%20Dados%20Desbalanceados/Fundamentos%20de%20Dados%20Desbalanceados.ipynb)
-- [Easy Ensemble](https://github.com/zheage/Data-Science/blob/8d7ddd11f78d46d1ab40be1c9136222053ec09d8/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Classifica%C3%A7%C3%A3o%20com%20Dados%20Desbalanceados/Easy%20Ensemble.ipynb)
+- [Regressão Lasso, Ridge e Elastic-Net]()
+- [Naive Bayes]()
+- [KNN & Nadayara Watson]()
 
 ## Seleção de Modelos & Métricas
 
@@ -42,9 +28,13 @@
 
 # Big Data
 
+![](akira.jpg)
+
 - [Introdução ao Big Data & SQL](https://github.com/zheage/Data-Science/blob/ae56cb110cb6f55261e740e6c6b4385d74eca337/Big%20Data/Introdu%C3%A7%C3%A3o/Introdu%C3%A7%C3%A3o%20ao%20Big%20Data.ipynb)
 
-![](akira.jpg)
+# Credit Scoring
+
+- [Introdução ao Credit Scoring]()
 
 # Deep Learning
 
@@ -53,8 +43,6 @@
 - [Introdução ao Deep Learning com Perceptron](https://github.com/zheage/Data-Science/blob/70391935e8bab46d37ae6d1ce3289d3895c78cec/Deep%20Learning/Introdu%C3%A7%C3%A3o/Introdu%C3%A7%C3%A3o%20ao%20Deep%20Learning.ipynb)
 - [Problema XOR](https://github.com/zheage/Data-Science/blob/70391935e8bab46d37ae6d1ce3289d3895c78cec/Deep%20Learning/Introdu%C3%A7%C3%A3o/Problema%20XOR.ipynb)
 - [Perceptron multicamadas e retropropagação](https://github.com/zheage/Data-Science/blob/70391935e8bab46d37ae6d1ce3289d3895c78cec/Deep%20Learning/Introdu%C3%A7%C3%A3o/Perceptron%20multicamadas%20e%20retropropaga%C3%A7%C3%A3o.ipynb)
-
-# [Medium Blog](https://medium.com/@heage)
 
 # Modelos Lineares Generalizados
 
