@@ -7,16 +7,16 @@
 ## Introdução
 
 - [Notação em Aprendizado de Máquina](https://github.com/zheage/Data-Science/blob/4432f42ae38fa9cf8556b17246299267da35266c/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Conceitos%20Introdut%C3%B3rios/Nota%C3%A7%C3%A3o%20em%20Aprendizado%20de%20M%C3%A1quina.ipynb)
-- [Elementos de um Problema de Classificação]()
+- [Elementos de um Problema de Classificação](https://github.com/zheage/Data-Science/blob/0762d470ecbaf29aedb110ce77050c520c673055/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Aprendizado%20Supervisionado/Conceitos%20Introdut%C3%B3rios/Elementos%20de%20um%20Problema%20de%20Classifica%C3%A7%C3%A3o.ipynb)
 
 ## Pré-Processamento & Feature Engineering
 
 ## Aprendizado Supervisionado
 
-- [Regressão Linear]()
-- [Regressão Lasso, Ridge e Elastic-Net]()
-- [Naive Bayes]()
-- [KNN & Nadayara Watson]()
+- [Regressão Linear](https://github.com/zheage/Data-Science/blob/0762d470ecbaf29aedb110ce77050c520c673055/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Aprendizado%20Supervisionado/Regress%C3%A3o%20Linear/Regress%C3%A3o%20Linear.ipynb)
+- [Naive Bayes](https://github.com/zheage/Data-Science/blob/0762d470ecbaf29aedb110ce77050c520c673055/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Aprendizado%20Supervisionado/Naive%20Bayes/Naive%20Bayes.ipynb)
+- [KNN & Nadayara Watson](https://github.com/zheage/Data-Science/blob/0762d470ecbaf29aedb110ce77050c520c673055/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Aprendizado%20Supervisionado/Naive%20Bayes/Naive%20Bayes.ipynb)
+- [Máquina de Vetores de Suporte]()
 
 ## Seleção de Modelos & Métricas
 
@@ -34,7 +34,7 @@
 
 # Credit Scoring
 
-- [Introdução ao Credit Scoring]()
+- [Introdução ao Credit Scoring](https://github.com/zheage/Data-Science/blob/0762d470ecbaf29aedb110ce77050c520c673055/Credit%20Scoring/Introdu%C3%A7%C3%A3o/Introdu%C3%A7%C3%A3o.ipynb)
 
 # Deep Learning
 
@@ -75,7 +75,6 @@
 
 - [Github do Livro Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow](https://github.com/ageron/handson-ml2/tree/master)
 - [Curso de Modelos Lineares Generalizados p/revisão](https://www.youtube.com/watch?v=fcAvRH38AeE&list=PLeA0ITHjteYmGbQDa1xwNJAGrFk7KjUGU&index=2&ab_channel=RodrigoPescim)
-- [Roadmap interessante sobre engenharia de dados](https://github.com/SartMorgs/data-engineer-roadmap)
 
 Código para adicionar imagens no notebook
 
