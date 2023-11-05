@@ -19,7 +19,7 @@
 - [Máquina de Vetores de Suporte]()
 - [AdaBoost]()
 - [Gradient Boosting]()
-  - [LightGBM vs XGBoost]()
+  - [LightGBM vs XGBoost](https://github.com/zheage/Data-Science/blob/07a74c65ba583e53864e204d49e1fd41e08e9f7b/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Aprendizado%20Supervisionado/Gradient%20Boosting/LightGBM%20x%20XGBoost.ipynb) 
 
 ## Seleção de Modelos & Métricas
 
@@ -46,6 +46,8 @@
 - [Introdução ao Deep Learning com Perceptron](https://github.com/zheage/Data-Science/blob/70391935e8bab46d37ae6d1ce3289d3895c78cec/Deep%20Learning/Introdu%C3%A7%C3%A3o/Introdu%C3%A7%C3%A3o%20ao%20Deep%20Learning.ipynb)
 - [Problema XOR](https://github.com/zheage/Data-Science/blob/70391935e8bab46d37ae6d1ce3289d3895c78cec/Deep%20Learning/Introdu%C3%A7%C3%A3o/Problema%20XOR.ipynb)
 - [Perceptron multicamadas e retropropagação](https://github.com/zheage/Data-Science/blob/70391935e8bab46d37ae6d1ce3289d3895c78cec/Deep%20Learning/Introdu%C3%A7%C3%A3o/Perceptron%20multicamadas%20e%20retropropaga%C3%A7%C3%A3o.ipynb)
+- Otimizadores
+  - [SGD]()
 
 # Modelos Lineares Generalizados
 
