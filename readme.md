@@ -17,6 +17,9 @@
 - [Naive Bayes](https://github.com/zheage/Data-Science/blob/0762d470ecbaf29aedb110ce77050c520c673055/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Aprendizado%20Supervisionado/Naive%20Bayes/Naive%20Bayes.ipynb)
 - [KNN & Nadayara Watson](https://github.com/zheage/Data-Science/blob/0762d470ecbaf29aedb110ce77050c520c673055/Aprendizado%20de%20M%C3%A1quina%20Estat%C3%ADstico/Aprendizado%20Supervisionado/Naive%20Bayes/Naive%20Bayes.ipynb)
 - [Máquina de Vetores de Suporte]()
+- [AdaBoost]()
+- [Gradient Boosting]()
+  - [LightGBM vs XGBoost]()
 
 ## Seleção de Modelos & Métricas
 
