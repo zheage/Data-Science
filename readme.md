@@ -29,6 +29,8 @@
 
 ## Aprendizado Não Supervisionado
 
+- [Análise de Componentes Principais]()
+
 # Big Data
 
 ![](akira.jpg)
@@ -47,7 +49,7 @@
 - [Problema XOR](https://github.com/zheage/Data-Science/blob/70391935e8bab46d37ae6d1ce3289d3895c78cec/Deep%20Learning/Introdu%C3%A7%C3%A3o/Problema%20XOR.ipynb)
 - [Perceptron multicamadas e retropropagação](https://github.com/zheage/Data-Science/blob/70391935e8bab46d37ae6d1ce3289d3895c78cec/Deep%20Learning/Introdu%C3%A7%C3%A3o/Perceptron%20multicamadas%20e%20retropropaga%C3%A7%C3%A3o.ipynb)
 - Otimizadores
-  - [SGD]()
+  - [SGD](https://github.com/zheage/Data-Science/blob/7422d2268482bd201b7f35ab414cb8df9f89bb08/Deep%20Learning/Otimizadores/SGD.ipynb)
 
 # Modelos Lineares Generalizados
 
